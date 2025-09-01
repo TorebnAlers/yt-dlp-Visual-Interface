@@ -1,5 +1,5 @@
 # yt-dlp-Visual-Interface
-A basic vvisual interface (GUI) for yt-dlp to download videos and audio from YouTube
+A basic visual interface (GUI) for yt-dlp to download videos and audio from YouTube
 
 
 This visual interface should make the use of the great yt-dlp tool significantly easier.
